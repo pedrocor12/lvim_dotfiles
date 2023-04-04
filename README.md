@@ -1,1 +1,1 @@
-# lvim_dotfiles
+# My config for Lvim 
