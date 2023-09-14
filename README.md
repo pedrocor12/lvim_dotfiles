@@ -1,3 +1,3 @@
 # My config for Lvim 
 
-if you would like to clone this repo simply clone it to your lunarvim .config 
+if you would like to use my config, simply clone it to your lunarvim .config 
